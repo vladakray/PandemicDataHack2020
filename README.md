@@ -10,6 +10,7 @@ Hello there!
 3. [Preparation_train](https://github.com/vladakray/PandemicDataHack2020/blob/main/Preparation_train.ipynb) и [Preparation_test](https://github.com/vladakray/PandemicDataHack2020/blob/main/Preparation_test.ipynb) - дополнительные файлы обработки обучающей и тестовой выборки, для их дальнейшего скармливания TabNet. В данных файлах, вы также можете найти кластеризацию городов (переменная также не вошла в итог :(, но была использована в файле General)
 4. [Scrapping](https://github.com/vladakray/PandemicDataHack2020/blob/main/Scrapping.ipynb)- дополнительный файл с парсингом рейтингов университетов России (переменная снова не вошла в итог :((, но была использована в General).
 5. [TabNet](https://github.com/vladakray/PandemicDataHack2020/blob/main/TabNet_model.ipynb)- дополнительный файл с попыткой предсказать з/п только по текстовым данным.
+6. [Hackaton](https://github.com/vladakray/PandemicDataHack2020/blob/main/Hackaton.pdf) - презентация решения с защиты на самом PadamecDataHack2020.
 
 Enjoy reading!
 
